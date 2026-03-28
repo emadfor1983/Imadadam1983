@@ -2,6 +2,7 @@
 
 ## Rock Paper Scissors Game
 
+The game prompts the player in English.
 This repository includes a simple command-line game written in Python. The
 game prompts the player in English.
 
